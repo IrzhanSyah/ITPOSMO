@@ -1,2 +1,2 @@
-# KalkulatorTugasWeek4
-Ini adalah Script Tugas Week 4 membuat Kalkulator
+# ITPOSMO
+Ini adalah sebuah metode pengambilan keputusan bersama
